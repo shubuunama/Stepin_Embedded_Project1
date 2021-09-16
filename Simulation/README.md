@@ -50,6 +50,8 @@
 
 ![image](https://user-images.githubusercontent.com/89735311/133507852-6c9c2ea6-d8a8-4188-99c2-75de978f196c.png)
 
+## Activity Code-2
+
      void InitADC()
     {
     
@@ -84,6 +86,8 @@
 ![image](https://user-images.githubusercontent.com/89735311/133508326-25fd4003-7b20-40e3-84c0-fb69b5251a6d.png)
 
 ![image](https://user-images.githubusercontent.com/89735311/133508365-1e064219-da87-4e81-9bcf-bd79dd393df7.png)
+
+## Activity Code-3
 
      void InitTimer()
      {
